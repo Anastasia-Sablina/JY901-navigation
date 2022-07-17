@@ -2,13 +2,13 @@ This project tries to implement inertial navigation using JY901(S), and the cont
 
  ## Structure
 
-Main branch contains codes and required instructions in each folder. Reference branch contains required knowledge to understand the project. If references are links, they are attached [here](#References).
+Main branch contains codes and required instructions in each folder. Reference branch contains required knowledge to understand the project. If references are links, they are attached in [References](#References).
 
 
 
 ## Progress
 
-July. 17th, 2022: Run demo of JY901S, and finish constructing HTML documentations.
+July. 17th, 2022: Run demo of JY901S, and finish constructing [HTML documentations](https://www.sablin.top/HTML/jy901/files.html). However, I still cannot obtain something mentioned in the pdf manual (Such as quaternion ). 
 
 
 
